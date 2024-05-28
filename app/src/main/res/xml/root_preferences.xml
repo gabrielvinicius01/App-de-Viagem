@@ -1,0 +1,47 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/black"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <PreferenceCategory
+        android:title="Cabeçalho de APP"
+        android:titleTextColor="@color/blue">
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Conta"
+        android:icon="@drawable/icon_conta"
+        android:titleTextColor="@color/blue">
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Privacidade"
+        android:icon="@drawable/icon_privacidade"
+        android:titleTextColor="@color/blue">
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Ajuda"
+        android:icon="@drawable/icon_ajuda"
+        android:titleTextColor="@color/blue">
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Notificações"
+        android:icon="@drawable/icon_notificacao"
+        android:titleTextColor="@color/blue">
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Configuração de Tela"
+        android:icon="@drawable/icon_tela"
+        android:titleTextColor="@color/blue">
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Idioma"
+        android:icon="@drawable/icon_idioma"
+        android:titleTextColor="@color/blue">
+    </PreferenceCategory>
+
+</PreferenceScreen>
