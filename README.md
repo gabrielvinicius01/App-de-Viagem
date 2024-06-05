@@ -10,7 +10,7 @@ O desenvolvimento do nosso aplicativo está quase completo, com três das quatro
 
 🟢 Página de Dashboard: Essa tela mostra ao cliente regiões do Brasil disponiveis para viagem e uma classificação.
 
-🟢 Pagina de Viagem: Mostramos as lugares da região selecionada com o preço.
+🟢 Pagina de Viagem: Mostramos os lugares da região selecionada indicando o preço.
 
 🔴 configuração: Nessa pagina daremos opções para alterar o app no aparelho do cliente.
 
