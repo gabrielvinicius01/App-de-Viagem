@@ -25,3 +25,4 @@ Integrar a página [configuração] ao aplicativo, garantindo que todas as funci
 <li>Pedro Henrique Pereira Guimarães</li>
 <li>Milena de Fatima Barbosa dos Santos</li>
 <li>Debora Vieira Cassoli</li>
+<li>Victor Hugo Oscar Francisco Rosa Sotelo</li>
