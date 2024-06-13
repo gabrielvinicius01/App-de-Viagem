@@ -1,8 +1,9 @@
-<h1>App até o momento<h1>
+<h1>App finalizado<h1>
 
-![app ao infinito e além](https://github.com/gabrielvinicius01/App-de-Viagem/assets/141922858/7b9ea752-0f8c-46be-a9a4-9c9fc437dc7e)
+![gif  App Ao infinito e além ‐ Feito com o Clipchamp](https://github.com/gabrielvinicius01/App-de-Viagem/assets/141922858/971c3357-0679-466f-b1bc-fc8f9e6d37cb)
 
-<h2>Progresso do app</h2>
+
+<h2>Partes do aplicativo</h2>
 O desenvolvimento do nosso aplicativo está quase completo, com três das quatro páginas essenciais já concluídas. As páginas finalizadas incluem:
 <p>
 
@@ -12,11 +13,8 @@ O desenvolvimento do nosso aplicativo está quase completo, com três das quatro
 
 🟢 Pagina de Viagem: Mostramos os lugares da região selecionada indicando o preço.
 
-🔴 configuração: Nessa pagina daremos opções para alterar o app no aparelho do cliente.
+🟢 Configuração: Nessa pagina temos opções para alterar o app no aparelho do cliente.
 
-<h2>Passo atual</h2>
-<p>
-Integrar a página [configuração] ao aplicativo, garantindo que todas as funcionalidades sejam corretamente implementadas e testadas. Uma vez que a página de Configurações esteja operacional, o aplicativo estará completo.
 
 
 
