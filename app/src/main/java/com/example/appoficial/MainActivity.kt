@@ -6,13 +6,11 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 
-class DetalhesCidadeActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_detalhes_cidade)
-
-        val regiao = intent.getStringExtra("local")
+        setContentView(R.layout.activity_main)
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
